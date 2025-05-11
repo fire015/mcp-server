@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { CallToolResult } from "@modelcontextprotocol/sdk/types";
+import { CallToolResult } from "@modelcontextprotocol/sdk/types.js";
 
 export type CallTool = {
   name: string;

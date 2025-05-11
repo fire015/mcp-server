@@ -68,3 +68,5 @@ npm run inspector
 ```
 
 The Inspector will provide a URL to access debugging tools in your browser.
+
+https://developers.cloudflare.com/agents/guides/remote-mcp-server/#add-authentication

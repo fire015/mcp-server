@@ -11,6 +11,7 @@
   },
   "scripts": {
     "dev": "tsx watch src/server.ts",
+    "test": "tsx tests/client.ts",
     "client": "tsx src/client.ts",
     "build": "pkgroll",
     "start": "node dist/server.js",
